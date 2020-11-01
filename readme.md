@@ -4,8 +4,8 @@
 
 '''
 pip install Flask
-python app.py
 
+python app.py
 '''
 
 ## Description
